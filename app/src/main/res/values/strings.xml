@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Popular movies (stage 1)</string>
+    <string name="details">Movie details</string>
+    <string name="key_movies_parcel">KEY_MOVIES_PARCEL</string>
+    <string name="key_single_movie_parcel">KEY_SINGLE_MOVIE_PARCEL</string>
+    <string name="movie_db_api_key">{YOUR_API_KEY_GOES_HERE}</string>
+    <string name="error_occurred_while_parsing">Error occurred while was parsing Json string</string>
+    <string name="no_internet_connection">Internet connection is not available</string>
+    <string name="preferences_popular_sort">SORT_KEY_POPULAR</string>
+    <string name="preferences_top_rated_sort">SORT_KEY_TOP_RATED</string>
+    <string name="sp_sort_key">SHARED_PREFERENCES_SORT_KEY</string>
+    <string name="video_title">Video title…</string>
+    <string name="content_description">content description…</string>
+    <string name="movie_title">movie…</string>
+    <string name="out_of_ten">/10</string>
+    <string name="label_movie">Movie</string>
+    <string name="label_info">General info</string>
+    <string name="label_release_date">Release date:</string>
+    <string name="label_average_vote">Average vote:</string>
+    <string name="label_description">Description</string>
+    <string name="text_release_date">release date…</string>
+    <string name="text_average_vote">average vote…</string>
+    <string name="text_description">description…</string>
+</resources>
